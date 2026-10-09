@@ -1,0 +1,8 @@
+{
+  "name": "Kebumen International Container Terminal",
+  "description": "Modern TOS platform for real-time container management, automated gate operations, billing, and advanced productivity analytics via Neon DB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
